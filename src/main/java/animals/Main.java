@@ -23,7 +23,7 @@ public class Main {
 
         System.out.println(cat.getName());
         System.out.println(dog.getName());
-        System.out.println("It's " + weekDay.getWeekDayName() + " today!");
+        System.out.println("Сегодня " + weekDay.getWeekDayName() + " !");
         System.out.println(parrot.getName());
 
     }
